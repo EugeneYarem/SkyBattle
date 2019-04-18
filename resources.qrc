@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/videos"/>
+    <qresource prefix="/">
+        <file>sounds/background.mp3</file>
+        <file>sounds/enemyShut.mp3</file>
+        <file>sounds/hit.mp3</file>
+        <file>sounds/playerShut.mp3</file>
+        <file>sounds/explosion.mp3</file>
+        <file>sprites/day/background.png</file>
+        <file>sprites/day/bullet.png</file>
+        <file>sprites/day/enemy.png</file>
+        <file>sprites/day/enemyBullet.png</file>
+        <file>sprites/day/player.png</file>
+        <file>sprites/day/bullet.png</file>
+        <file>sprites/day/enemy.png</file>
+        <file>sprites/day/enemyBullet.png</file>
+        <file>sprites/day/player.png</file>
+        <file>sprites/day/background.png</file>
+        <file>sounds/gameOver.mp3</file>
+        <file>sprites/night/background.png</file>
+        <file>sprites/night/bullet.png</file>
+        <file>sprites/night/enemy.png</file>
+        <file>sprites/night/enemyBullet.png</file>
+        <file>sprites/night/player.png</file>
+        <file>sounds/clap.mp3</file>
+    </qresource>
+</RCC>
